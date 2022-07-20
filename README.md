@@ -13,6 +13,6 @@ Tiene varias paginas incluido: index.html, contacto.html
 
 Para anadir un bloque de codigo HTML, usemos el siguiente ejemplo:
 
-...
-<html><html>
-...
+```
+<html></html>
+```
